@@ -4,6 +4,10 @@ This demo is based on [PuerTS](https://github.com/Tencent/puerts.git) so we can 
 
 use `langchain.js` for fun.
 
+![UnityOrUnreal](https://user-images.githubusercontent.com/5595819/227445983-e4f29b60-f6bf-433c-9537-c77c6d34c0ad.png)
+
+> I asked him `Which one is better, Unity3D or Unreal Engine?`
+
 ### Example
 Sample code is in `Assets/Scenes/Langchain.cs`, and it Execute `Assets/Typescripts/langchain-test.mts`.
 
