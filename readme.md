@@ -15,7 +15,7 @@ Make sure you fill the OpenAI API key in `Assets/Typescripts/langchain-test.mts`
 
 ### Do more in example
 
-* modify the code in `Assets`. And `Assets/Typescripts` is where your TS code is located.
+* modify the code in `Assets`. And `Assets/Typescripts` is where your TS code is located.If you want to get the ts intellisense for 'langchain', run `npm install` in `Puer-Project`.
 
 * if you want to add more node_modules. 
     1. run `npm install` in `Puer-Project` first.
