@@ -1,0 +1,19 @@
+{
+  "name": "puer-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dqbd/tiktoken": "^1.0.2",
+    "@huggingface/inference": "^1.6.0",
+    "cohere-ai": "^5.1.0",
+    "debug": "^4.3.4",
+    "langchain": "^0.0.39",
+    "node-fetch": "^3.3.1",
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}

@@ -1,0 +1,9 @@
+Puer-Project/node_modules
+UserSettings
+ProjectSettings
+Logs
+Library
+.vscode
+*.sln
+*.csproj
+Temp
