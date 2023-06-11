@@ -7,3 +7,6 @@ Library
 *.sln
 *.csproj
 Temp
+puerts
+obj
+.idea
